@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Lab3" parent="Theme.Material3.DayNight">
+        <item name="windowActionBarOverlay">false</item>
+
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+
+</resources>
